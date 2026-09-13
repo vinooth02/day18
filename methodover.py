@@ -1,6 +1,6 @@
 class Animal:
 
-    def sount(self):
+    def sound(self):
         print("Animal makes a sound")
 
 class Dog(Animal):
